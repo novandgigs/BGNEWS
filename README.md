@@ -2,7 +2,7 @@
 
 국내 보드게임 업체 소식, 텀블벅 보드게임 펀딩, 해외 화제 펀딩 게임을 매일 모아 보는 정적 웹사이트입니다.
 
-- 사이트: https://novandgigs.github.io/bgnews/
+- 사이트: https://novandgigs.github.io/BGNEWS/
 - 데이터: `data/news.json` (소식 배열), `data/meta.json` (마지막 수집 정보)
 - 매일 오전 11시(KST) 예약 작업이 새 소식을 `scripts/add_news.py`로 합치고 커밋합니다.
 
